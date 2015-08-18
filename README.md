@@ -6,4 +6,3 @@ For a more indepth tutorial, please consult one of the links below.
 
 - English : http://help.forumotion.com/t142706-modify-or-translate-the-toolbar-texts
 - Français : http://forum.forumactif.com/t380482-modifier-ou-traduire-les-textes-de-la-toolbar
-- 
